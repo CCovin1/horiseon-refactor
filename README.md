@@ -12,7 +12,7 @@ A website for a marketing agency with the ideal standards for accessability with
 ## Usage
     -To view the site you can click the link here: 
         https://ccovin1.github.io/horiseon-refactor/#online-reputation-management
-
+![Alt text](assets/images/image-1.png)
 ## Credits
 
 This project was developed by Horiseon Social Solution Services, Inc. For any inquiries or support, please contact:
