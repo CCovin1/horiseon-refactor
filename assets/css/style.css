@@ -83,10 +83,9 @@ main section h2 {
 /* made aside section to clean up the code */
 aside {
     margin-right: 0px;
-    padding: 20px;
-    clear: both;
+    display: inline;
     float: right;
-    width: 20%;
+    width: 18%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
@@ -108,6 +107,9 @@ aside section img {
     max-width: 150px;
 }
 
+#benefits { 
+    float: right;
+}
 footer {
     padding: 30px;
     clear: both;
